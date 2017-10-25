@@ -14,8 +14,6 @@ import org.springframework.stereotype.Repository;
 
 import com.spring.model.Cart;
 
-
-
 @Repository
 public class CartDAOImpl implements CartDAO
 
