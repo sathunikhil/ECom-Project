@@ -31,9 +31,6 @@
 			<input name="j_password"  type="password" placeholder="User Password" class="form-control" />
 		</div>
 	</div>
-
-
-
 	<div class="form-group">
 	<label for="code" class="col-xs-4 control-label"></label>
 		

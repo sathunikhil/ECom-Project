@@ -58,17 +58,17 @@ ${ExistingMessage}
                         <ul class="dropdown-menu">
                             <li><a href="login">Login </a></li>
                             <li><a href="register">Registration </a></li>
-                            <li class="divider"></li>
+                            
                             <!-- <li><a href="logout">Logout</a></li> -->
                          
-                              <li> <a href="<c:url value="j_spring_security_logout" />">Logout</a></li>
+                             
                             
                           
                         </ul>
                     </li>
                 </ul>
                  <ul class="nav navbar-nav">
-                    <li><a href="#">Home</a></li>
+                    
                     <li><a href="viewcart">Cart</a></li>
                </ul>     
             </div><!-- /.navbar-collapse -->
